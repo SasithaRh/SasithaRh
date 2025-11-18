@@ -74,7 +74,7 @@ I specialize in modern web, mobile, and ERP application development with a focus
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SasithaRh&show_icons=true&theme=dark&locale=en&layout=compact" alt="SasithaRh" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=SasithaRh&show_icons=true&theme=dark&locale=en" alt="SasithaRh" /></p>
 </div>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>><br><br>><br><br>
 
   
 <h3 align="left">Connect with me:</h3>
