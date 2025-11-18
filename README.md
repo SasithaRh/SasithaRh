@@ -26,24 +26,15 @@ I specialize in modern web, mobile, and ERP application development with a focus
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div id="user-content-toc">
 <ul align="center" style="list-style: none;">
-  <summary><h2 style="display: inline-block">Frontend</h2></summary>
+  <summary><h2 style="display: inline-block">Frontend & Backend</h2></summary>
 </ul>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,materialui,nextjs,react,redux,tailwind,bootstrap&perline=14" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,materialui,nextjs,react,redux,tailwind,bootstrap,express,nodejs,laravel,php,java&perline=14" />
   </a>
 </p>
 </div>
-<div id="user-content-toc">
-<ul align="center">
-  <summary><h2 style="display: inline-block">Backend</h2></summary>
-</ul>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,nodejs,laravel,php,java&perline=14" />
-  </a>
-</p>
-    </div>
+
 <div id="user-content-toc">
 <ul align="center">
   <summary><h2 style="display: inline-block">Database & Tools</h2></summary>
@@ -74,7 +65,7 @@ I specialize in modern web, mobile, and ERP application development with a focus
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SasithaRh&show_icons=true&theme=dark&locale=en&layout=compact" alt="SasithaRh" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=SasithaRh&show_icons=true&theme=dark&locale=en" alt="SasithaRh" /></p>
 </div>
-<br><br><br><br><br><br><br><br>><br><br>><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
   
 <h3 align="left">Connect with me:</h3>
